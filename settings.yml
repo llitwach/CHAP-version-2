@@ -1,0 +1,4 @@
+dynamixel:
+    wheels: [1,2,3]
+    base: 4
+
